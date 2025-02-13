@@ -1,5 +1,6 @@
 ### Welcome, i'am João Victor😃
-#### Current working with Flutter
+#### Current working with Flutter at XP inc, i've been working with mobile development for 3 years. Right i'm studying the topics of system design and backend on go
+
 
  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
