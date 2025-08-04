@@ -1,11 +1,7 @@
 ### Welcome, i'am João Victor😃
-#### Current working with Flutter at Parser - SoFi Bank, i've been working with mobile development for 4 years. Right now i'm studying the topics of system design and backend on go
-
-
- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoReisA&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoReisA&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+#### Current working with Flutter at Parser - SoFi Bank, i've been working with mobile development for 4 + years. 
+Right now i'm studying the topics of system design and backend with go.
+I'm also posting some stuff at <a href="https://joaoreis.com">joaoreisa.com</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
