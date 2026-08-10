@@ -1,5 +1,5 @@
 ### Welcome, i'am João Victor😃
-#### Current working with Flutter at Parser - SoFi Bank, i've been working with mobile development for 5 + years. 
+#### software engineer at Nubank. using clojure and flutter
 Right now i'm studying the topics of system design and backend with go.
 I'm also posting some stuff at <a href="https://joaoreisa.com">joaoreisa.com</a>
 
