@@ -1,7 +1,7 @@
 ### Welcome, i'am João Victor😃
 #### software engineer at Nubank. using clojure and flutter
-Right now i'm studying the topics of system design and backend with go.
-I'm also posting some stuff at <a href="https://joaoreisa.com">joaoreisa.com</a>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
